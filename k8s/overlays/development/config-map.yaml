@@ -4,7 +4,8 @@ data:
     [
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://i.imgflip.com/7jmwjs.jpg",
+      "https://duet-cdn.vox-cdn.com/thumbor/0x0:720x576/640x427/filters:focal(421x270:422x271):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/25178954/1920_51_107_720.jpg"
     ]
 kind: ConfigMap
 metadata:
